@@ -1,4 +1,4 @@
-👋 Hi! Welcome to @amndazhang 
+👋 Hello, welcome to @amndazhang
 
 <!--
 **amndazhang/amndazhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
