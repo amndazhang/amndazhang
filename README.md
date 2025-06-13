@@ -1,5 +1,7 @@
 👋 Hi! I'm Amanda Zhang.
 
+amanda_zhang@berkeley.edu
+
 <!-- [![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amndazhang)](https://github.com/amndazhang/github-readme-stats)
 
 ![Top Languages Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=amndazhang&theme=dark)  -->
