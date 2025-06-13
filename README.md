@@ -1,4 +1,4 @@
-👋 Hello, I'm Amanda Zhang.
+👋 Hi! I'm Amanda Zhang.
 
 <!-- [![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amndazhang)](https://github.com/amndazhang/github-readme-stats)
 
